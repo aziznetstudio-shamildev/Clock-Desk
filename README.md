@@ -1,2 +1,2 @@
 # Clock-Desk
-a desktop clock with meteo and prayer time 
+A modern fullscreen clock application with weather, prayer times, and multilingual support built with B4J
