@@ -1,33 +1,69 @@
 # Clock-Desk
 A modern fullscreen clock application with weather, prayer times, and multilingual support built with B4J
 
-# B4J Fullscreen Clock
+# Clock-Desk 🕐
 
-A modern, customizable fullscreen clock application with advanced features built using B4J (Basic4Java).
+A modern, feature-rich fullscreen clock application for desktop with real-time weather data, Islamic prayer times, and multilingual support. Built with B4J (Basic4Java) and JavaFX.
 
-## Features
+![License](https://img.shields.io/github/license/aziznetstudio-shamildev/Clock-Desk)
+![GitHub stars](https://img.shields.io/github/stars/aziznetstudio-shamildev/Clock-Desk)
+![B4J](https://img.shields.io/badge/B4J-9.0+-blue)
 
-- **Digital & Analog Clock Modes**: Switch between modern digital display and classic analog clock
-- **Real-Time Weather**: Live weather data with temperature, humidity, and wind speed
-- **Islamic Prayer Times**: Accurate prayer time calculations for any location worldwide
-- **City Search**: Search and save any city globally with automatic geocoding
-- **Multilingual Support**: English, French, and Arabic languages with RTL support
-- **Background Images**: Rotating background images with customizable intervals
+## ✨ Features
+
+### 🎨 Display Modes
+- **Digital Clock**: Large, customizable digital time display
+- **Analog Clock**: Classic analog clock with smooth animations
 - **Responsive Design**: Automatically adapts to any screen resolution
-- **Customizable Themes**: Multiple color schemes and customization options
-- **Transparent Info Panel**: Modern UI with toggleable information overlay
+- **Fullscreen Mode**: Distraction-free clock display
 
-## Screenshots
+### 🌤️ Weather Integration
+- Real-time weather data from Open-Meteo API
+- Temperature, humidity, and wind speed display
+- Dynamic weather icons
+- City search with global coverage
+- Automatic location saving
 
-![Digital Clock Mode](screenshots/digital-mode.png)
-![Analog Clock Mode](screenshots/analog-mode.png)
+### 🕌 Prayer Times
+- Accurate Islamic prayer time calculations
+- Supports worldwide locations
+- Muslim World League calculation method
+- Beautiful card-based display layout
+- Toggle on/off functionality
 
-## Requirements
+### 🌍 Multilingual Support
+- **Languages**: English, French, Arabic
+- RTL (Right-to-Left) support for Arabic
+- Translated UI elements and prayer times
+- Easy language switching
 
-- **B4J** version 9.0 or higher
-- **Java** JDK 11 or higher
-- Internet connection (for weather and city search features)
+### 🎨 Customization
+- **10 Color Themes**: Cyan, White, Yellow, Orange, Magenta, Lime, Pink, Red, Green, Random
+- **Background Images**: Rotating backgrounds with customizable intervals
+- **Solid Color Backgrounds**: Alternative to images
+- **Transparent Info Panel**: Modern overlay design
 
-## Installation
+## 📸 Screenshots
 
-1. Download or clone this repository:
+_(Add screenshots here - see instructions below)_
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- **B4J IDE** version 9.0 or higher - [Download](https://www.b4x.com/b4j.html)
+- **Java JDK** 11 or higher
+- Internet connection (for weather and geocoding features)
+
+### Required B4J Libraries
+
+- B4XPages
+- jCore
+- jFX
+- jHttpUtils2
+- jJSON
+- XUI Views
+
+### Installation
+
+1. **Clone the repository**:
